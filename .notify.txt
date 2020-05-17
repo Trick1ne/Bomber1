@@ -1,0 +1,3 @@
+TBomb Has Been OpenSourced !!!
+	Please Contribute real owner To Keep it Alive.
+Update To TBomb v1.7.1c (Removed 500 and 15 limits)
